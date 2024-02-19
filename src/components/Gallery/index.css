@@ -1,0 +1,22 @@
+/* Write your code here. */
+.total-bg {
+  height: 100vh;
+  padding: 50px;
+  margin: auto;
+}
+.main-image {
+  height: 600px;
+  width: 80vw;
+}
+
+.unOrder {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+@media (max-width: 767px) {
+  .main-image {
+    height: 350px;
+    width: 90%;
+  }
+}

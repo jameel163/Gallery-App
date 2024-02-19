@@ -1,0 +1,9 @@
+/* Write your code here. */
+
+.butt {
+  outline: none;
+  cursor: pointer;
+
+  margin: 5px;
+  border-style: none;
+}
